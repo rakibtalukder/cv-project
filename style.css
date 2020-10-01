@@ -1,0 +1,196 @@
+*{
+
+margin: 0;
+padding: 0;
+
+}
+
+body{
+
+    background-color:whitesmoke;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+.container{
+
+max-width: 1000px;
+background-color: rgb(109, 202, 202);
+margin: 0 auto;
+
+
+}
+
+
+.profile-image{
+
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    padding: 5px;
+    float: left;
+
+}
+
+.header-bio{
+
+float: left;
+padding: 30px;
+}
+
+h1,h2,h3,h4,h5,h6{
+
+    color:green;
+
+}
+
+.header-contact{
+
+    float: right;
+    padding: 40px;
+
+}
+
+.header-contact a{
+    text-decoration: none;
+    color: green;
+}
+
+.header-contact a:hover {
+    text-decoration: underline;
+    color: orangered;
+}
+
+.div-clear{
+    clear: both;
+}
+
+hr{
+
+border: solid black 3px;
+width: 98%;
+margin: 20px auto;
+border-bottom: none;
+}
+
+.right-div-objective{
+float: right;
+width: 70%;
+font-weight: bold;
+
+}
+
+#personal-section{
+
+}
+
+.content{
+
+
+}
+
+.left-div{
+    float: left;
+    width: 30%;
+}
+
+.right-div{
+    float: right;
+    width: 40%;
+    
+    font-weight: bold;
+}
+
+.common-hr{
+
+    border: solid black 1px;
+
+}
+
+.right-div-another{
+
+    float: right;
+    width: 100%;
+    font-weight: bold;
+}
+
+.right-div-1{
+
+    float: right;
+    width: 40%;
+}
+
+.right-div-2{
+
+    float: right;
+    width: 40%;
+}
+
+.right-div-3{
+
+    float: right;
+    width: 40%;
+}
+
+.education-hr{
+    border: solid white 1px;
+    width: 70%;
+}
+
+.right-div-skill{
+    float: right;
+    width: 70%;
+    font-weight: bold;
+}
+
+.right-div-skill-2 ul{
+    float: right;
+
+    width: 30%;
+}
+
+.right-div-skill-1 ul{
+    float: right;
+
+    width: 30%;
+}
+
+.reference-1{
+    float: right;
+    width: 50%;
+}
+.reference-2{
+    float: right;
+    width: 50%;}
+
+
+.footer{
+
+    background-color: black;
+    text-align: center;
+    padding: 40px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+
+.footer a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+
+.footer p{
+    color: white;
+}
+
+
+
+
+/* ...THE END
+Najmul Ahsan Rakib */
